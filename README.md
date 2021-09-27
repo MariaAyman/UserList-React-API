@@ -1,3 +1,7 @@
+# Userlist - React API
+
+Displaying a list of Users from [API](https://jsonplaceholder.typicode.com/users) in a table
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
